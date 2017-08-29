@@ -1,0 +1,1 @@
+"./libraries/NCN_GPIO.obj" "./libraries/HC_SR04.obj" "./tmain.obj" "../lnk_msp430g2553.cmd" "../mdk/np_module_mdk_v1.lib" -l"C:\D DRIVE\NEXPAQ\nexpaq\Ultrasonic\Ultrasonic\HC__firmware__\__firmware__\mdk\np_module_mdk_v1.lib" -l"libc.a" 

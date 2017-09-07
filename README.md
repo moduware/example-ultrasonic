@@ -24,7 +24,7 @@ Example with HC-SR04 ultrasonic sensor including firmware, module driver and til
 ## Useful links:
 - [HC-SR04 ultrasonic sensor data sheet][HC-SR04]
 - [MSP430 Firmware template and how module firmware works][MSP-TEMP]
-- [Flashing firmware to MSP430 developer's module][module]
+- [Flashing firmware to MSP430 developer's module][module]: Click Getting staretd and then Flashing the MSP module.
 - [MSP430 developer's module introduction][module]
 - [WebView Tile template and TODO: How webview tile works][webview-template]
 - TODO: Installing webview tile onto your smartphone in developer's mode

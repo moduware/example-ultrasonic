@@ -24,8 +24,8 @@ Example with HC-SR04 ultrasonic sensor including firmware, module driver and til
 ## Useful links:
 - [HC-SR04 ultrasonic sensor data sheet][HC-SR04]
 - [MSP430 firmware template and how module firmware works][MSP-TEMP]
-- [Flashing firmware to MSP430 developer's module][module]: Click Getting started and then Flashing the MSP module.
-- [MSP430 developer's module introduction][module]
+- TODO: Flashing firmware to MSP430 developer's module
+- TODO: MSP430 developer's module introduction
 - [WebView tile template and TODO: How webview tile works][webview-template]
 - TODO: Installing webview tile onto your smartphone in developer's mode
 
@@ -43,4 +43,3 @@ Example with HC-SR04 ultrasonic sensor including firmware, module driver and til
 [HC-SR04]: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 [webview-template]: https://github.com/nexpaq/webview-tile-template
 [MSP-TEMP]: https://github.com/nexpaq/msp430-firmware-template
-[module]: https://developers.nexpaq.com/
